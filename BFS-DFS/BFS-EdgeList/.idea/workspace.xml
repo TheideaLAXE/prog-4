@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="BFS_EdgeList" targetName="BFS_EdgeList" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a948b97e-c12f-4926-9878-0c99f24bf2d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/BFS-DFS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjList/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjList/.idea/BFS-AdjList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjList/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjList/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjList/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjMatrix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjMatrix/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjMatrix/.idea/BFS-AdjMatrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjMatrix/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjMatrix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjMatrix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjMatrix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjMatrix/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS-AdjMatrix/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjList/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjList/.idea/DFS-AdjList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjList/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjList/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjList/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjMatrix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjMatrix/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjMatrix/.idea/DFS-AdjMatrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjMatrix/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjMatrix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjMatrix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjMatrix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjMatrix/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS-AdjMatrix/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ctcN5YIE" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JlerIZk3TJjh2E8HvFXLdQTu7a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.BFS_EdgeList.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/axe/Documents/Github/programming-fourth/BFS-DFS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/axe/Documents/Github/programming-fourth/BFS-DFS/BFS-EdgeList/main.cpp",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BFS_EdgeList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BFS_EdgeList" TARGET_NAME="BFS_EdgeList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BFS_EdgeList" RUN_TARGET_NAME="BFS_EdgeList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake Application.BFS_EdgeList&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
+      },
+      &quot;second&quot;: &quot;f31b3bdb-cf54-4ac1-b2d8-c882cb19b117&quot;
+    }
+  ],
+  &quot;modificationCount&quot;: 2
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a948b97e-c12f-4926-9878-0c99f24bf2d9" name="Changes" comment="" />
+      <created>1790240279780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790240279780</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+</project>
