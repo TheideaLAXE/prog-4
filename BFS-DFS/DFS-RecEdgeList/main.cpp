@@ -5,14 +5,14 @@ using namespace std;
 
 bool dfs(const vector<pair<int,int>> &EL, const int s, const int e, vector<bool> &v) {
     if (s==e) return 1;
-    for (const auto &[fst, snd] : EL) {
-        if (fst==s && !v[snd]) {
-            v[snd]=1;
-            if (dfs(EL, snd, e, v)) return 1;
+    for (const auto &i : EL) {
+        if (i.first==s && !v[i.second]) {
+            v[i.second]=1;
+            if (dfs(EL, i.second, e, v)) return 1;
         }
-        else if (snd==s && !v[fst]) {
-            v[fst]=1;
-            if (dfs(EL, fst, e, v)) return 1;
+        else if (i.second==s && !v[i.first]) {
+            v[i.first]=1;
+            if (dfs(EL, i.first, e, v)) return 1;
         }
     }
 
@@ -21,14 +21,13 @@ bool dfs(const vector<pair<int,int>> &EL, const int s, const int e, vector<bool>
 
 bool dfs_call(const vector<pair<int,int>> &EL, const int s, const int e) {
     set<int> S;
-    for (const auto &[fst, snd] : EL) {
-        S.insert(fst);
-        S.insert(snd);
+    for (const auto &i : EL) {
+        S.insert(i.first);
+        S.insert(i.second);
     }
     vector<bool> v(S.size(), 0);
     return dfs(EL, s, e, v);
 }
-
 
 int main() {
     vector<pair<int,int>> EL;
